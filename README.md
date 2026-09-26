@@ -7,9 +7,6 @@
 Домашние серверы, Telegram-боты, Minecraft, автоматизация  
 и периодическое превращение "старого железа" во что-нибудь полезное (ну или из мусора в мусор, люблю электронный мусор).
 
-[![GitHub](https://img.shields.io/badge/GitHub-repositories-181717?style=flat&logo=github)](https://github.com/YOUR_GITHUB)
-[![Telegram](https://img.shields.io/badge/Telegram-@YOUR_TELEGRAM-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-
 </div>
 
 ---
