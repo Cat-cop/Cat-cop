@@ -72,7 +72,6 @@ Minecraft-серверы, локальные LLM и кучу Telegram-ботов
 ### Железки
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00AE42?style=flat&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/Meta_Quest-0467DF?style=flat&logo=meta&logoColor=white)
 ![Raspberry Pi Zero 2 W](https://img.shields.io/badge/Raspberry_Pi-Zero_2_W-A22846?style=flat&logo=raspberrypi&logoColor=white)
