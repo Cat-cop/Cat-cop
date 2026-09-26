@@ -64,8 +64,6 @@ Minecraft-серверы, локальные LLM и кучу Telegram-ботов
 
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat&logo=homeassistant&logoColor=white)
 ![Navidrome](https://img.shields.io/badge/Navidrome-00A4DC?style=flat&logo=musicbrainz&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![TeamSpeak](https://img.shields.io/badge/TeamSpeak_3-2580C3?style=flat&logo=teamspeak&logoColor=white)
 
