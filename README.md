@@ -47,9 +47,9 @@ Minecraft-серверы, локальные LLM и кучу Telegram-ботов
 
 ## 🛠️ Стек
 
-### Сервер
-### 🖥️ Домашний сервер
 
+### 🖥️ Домашний сервер
+>Игровой ноут что был обслужен и теперь стоит без батареи тупо на БК
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-Noble-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-i5--7300HQ-0071C5?style=flat&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_1050_4GB-76B900?style=flat&logo=nvidia&logoColor=white)
@@ -58,12 +58,6 @@ Minecraft-серверы, локальные LLM и кучу Telegram-ботов
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
-- **CPU:** Intel Core i5-7300HQ @ 2.50 GHz — 4 ядра / 4 потока
-- **GPU:** NVIDIA GeForce GTX 1050 Mobile — 4 GB VRAM
-- **iGPU:** Intel HD Graphics 630
-- **RAM:** 16 GB
-
-
 
 
 ### Self-hosted
@@ -81,3 +75,6 @@ Minecraft-серверы, локальные LLM и кучу Telegram-ботов
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00AE42?style=flat&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/Meta_Quest-0467DF?style=flat&logo=meta&logoColor=white)
+![Raspberry Pi Zero 2 W](https://img.shields.io/badge/Raspberry_Pi-Zero_2_W-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino Nano](https://img.shields.io/badge/Arduino-Nano-00878F?style=flat&logo=arduino&logoColor=white)
+![Nintendo 3DS](https://img.shields.io/badge/Nintendo-3DS-CE181E?style=flat&logo=nintendo&logoColor=white)
