@@ -50,6 +50,7 @@ Minecraft-серверы, локальные LLM и кучу Telegram-ботов
 
 ### 🖥️ Домашний сервер
 >Игровой ноут что был обслужен и теперь стоит без батареи тупо на БК
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-Noble-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-i5--7300HQ-0071C5?style=flat&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_1050_4GB-76B900?style=flat&logo=nvidia&logoColor=white)
