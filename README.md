@@ -11,7 +11,7 @@
 
 ---
 
-Держу собственную домашнюю инфраструктуру: **Home Assistant, Matrix, Navidrome,
+Держу собственную домашнюю инфраструктуру: **Home Assistant, Navidrome,
 Minecraft-серверы, локальные LLM и кучу Telegram-ботов**.
 
 Большинство вещей запускается у меня дома — стараюсь использовать облака только там,
@@ -49,7 +49,7 @@ Minecraft-серверы, локальные LLM и кучу Telegram-ботов
 
 
 ### 🖥️ Домашний сервер
->Игровой ноут что был обслужен (тупо термуху поменял) и теперь стоит без батареи т крышки тупо по проводу
+>Игровой ноут что был обслужен (тупо термуху поменял) и теперь стоит без батареи и крышки тупо по проводу
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-Noble-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-i5--7300HQ-0071C5?style=flat&logo=intel&logoColor=white)
